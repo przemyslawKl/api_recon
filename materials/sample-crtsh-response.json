@@ -1,0 +1,35 @@
+[
+  {
+    "issuer_ca_id": 12345,
+    "issuer_name": "C=US, O=Example CA, CN=Example Test CA",
+    "common_name": "www.example.com",
+    "name_value": "www.example.com",
+    "id": 100000001,
+    "entry_timestamp": "2026-01-10T10:15:00.000",
+    "not_before": "2026-01-10T00:00:00",
+    "not_after": "2026-04-10T23:59:59",
+    "serial_number": "00aa11bb22cc"
+  },
+  {
+    "issuer_ca_id": 12345,
+    "issuer_name": "C=US, O=Example CA, CN=Example Test CA",
+    "common_name": "*.example.com",
+    "name_value": "*.example.com\napi.example.com\ndev.example.com",
+    "id": 100000002,
+    "entry_timestamp": "2026-02-11T11:20:00.000",
+    "not_before": "2026-02-11T00:00:00",
+    "not_after": "2026-05-11T23:59:59",
+    "serial_number": "00dd33ee44ff"
+  },
+  {
+    "issuer_ca_id": 54321,
+    "issuer_name": "C=US, O=Another Example CA, CN=Another Example Test CA",
+    "common_name": "api.example.com",
+    "name_value": "api.example.com\nAPI.EXAMPLE.COM",
+    "id": 100000003,
+    "entry_timestamp": "2026-03-12T12:30:00.000",
+    "not_before": "2026-03-12T00:00:00",
+    "not_after": "2026-06-12T23:59:59",
+    "serial_number": "001122334455"
+  }
+]

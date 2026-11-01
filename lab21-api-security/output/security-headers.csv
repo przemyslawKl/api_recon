@@ -1,0 +1,14 @@
+subdomain,url,status_code,strict_transport_security,content_security_policy,x_frame_options,x_content_type_options,referrer_policy,permissions_policy
+automations.learnit.com.pl,https://automations.learnit.com.pl,200,missing,missing,present,present,present,missing
+erp-api.learnit.com.pl,https://erp-api.learnit.com.pl,200,missing,missing,present,present,present,missing
+erp.learnit.com.pl,https://erp.learnit.com.pl,200,missing,missing,missing,missing,missing,missing
+learnit.com.pl,https://learnit.com.pl,200,present,missing,present,present,present,present
+lms.learnit.com.pl,https://lms.learnit.com.pl,200,missing,missing,missing,missing,missing,missing
+s.learnit.com.pl,https://s.learnit.com.pl,200,present,missing,present,present,present,present
+sales.learnit.com.pl,https://sales.learnit.com.pl,200,missing,missing,missing,missing,missing,missing
+sign.learnit.com.pl,https://sign.learnit.com.pl,200,missing,present,missing,missing,missing,missing
+studio.learnit.com.pl,https://studio.learnit.com.pl,200,missing,missing,missing,present,present,missing
+webinars.learnit.com.pl,https://webinars.learnit.com.pl,200,missing,missing,present,missing,missing,missing
+www.automations.learnit.com.pl,https://www.automations.learnit.com.pl,200,missing,missing,present,present,present,missing
+www.learnit.com.pl,https://www.learnit.com.pl,200,present,missing,present,present,present,present
+www.webinars.learnit.com.pl,https://www.webinars.learnit.com.pl,403,missing,missing,missing,missing,missing,missing
